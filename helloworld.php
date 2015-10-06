@@ -9,6 +9,7 @@
 <body>
 <?php
   date_defalt_timezone_set('Asia/Manila');
+  echo "Hi";
 ?>
 <h1>Hello, world!</h1>
 <p><?php echo date('F j, Y g:i:s A'); ?></p>
