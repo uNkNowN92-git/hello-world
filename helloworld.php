@@ -1,4 +1,4 @@
 <?php
-  echo 'Hello, world!';
+  echo 'Hello, world!\nWorld Hello!';
 ?>
 <h1>World Hello!</h1>
