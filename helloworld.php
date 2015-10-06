@@ -8,9 +8,9 @@
 </head>
 <body>
 <?php
-  echo 'Hello, world!\n';
-  echo date('F j, Y g:i:s A');
+  date_defalt_timezone_set('Asia/Manila');
 ?>
-<h1>World Hello!</h1>
+<h1>Hello, world!</h1>
+<p><?php echo date('F j, Y g:i:s A'); ?></p>
 </body>
 </html>
