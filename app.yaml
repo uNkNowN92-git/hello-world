@@ -1,4 +1,4 @@
-application: helloworld
+application: hello-117
 version: alpha-003
 runtime: php55
 api_version: 1
