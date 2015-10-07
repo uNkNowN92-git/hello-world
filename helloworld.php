@@ -15,7 +15,7 @@
 <h1>Hello, world!</h1>
 <p><?php echo date('F j, Y g:i:s A'); ?></p>
 <section class="content">
-	<h2>Yoko</h2>
+	<h2>Header</h2>
 	<span class="input">
 		<input class="input__field input__field--yoko" type="text" id="input-16">
 		<label class="input__label input__label--yoko" for="input-16">
